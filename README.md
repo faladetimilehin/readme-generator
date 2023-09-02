@@ -19,7 +19,9 @@ npm i
 
 ## Usage
 
-you can clone the repo using [git clone] and type npm i after
+you can clone the repo using git clone[repo name] and type npm i after
+https://faladetimilehin.github.io/readme-generator/
+https://faladetimilehin.github.io/readme-generator/
 
 ## License
 
