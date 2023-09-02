@@ -36,7 +36,6 @@ npm run test
 ## Questions
 
 If you have any questions or need further assistance, feel free to contact me with the below link
-If you have any questions or need further assistance, feel free to contact me:
 
 - GitHub: [GitHub Username](https://github.com/faladetimilehin)
 - Email: [faladetimilehin@yahoo.com]
